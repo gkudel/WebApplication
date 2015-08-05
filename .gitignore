@@ -1,0 +1,5 @@
+packages/
+WebApplication/bin/
+WebApplication/obj/
+WebApplication.Tests/obj/
+WebApplication.Tests/bin/
