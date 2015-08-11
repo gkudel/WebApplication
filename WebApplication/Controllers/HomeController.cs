@@ -13,7 +13,7 @@ namespace WebApplication.Controllers
             return View();
         }
 
-        public ActionResult WebApplication1()
+        public ActionResult Test1()
         {
             return View();
         }
